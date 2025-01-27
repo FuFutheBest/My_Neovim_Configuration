@@ -1,8 +1,5 @@
 *
 !*.lua
-!lua/fufu/.lua
-!lua/fufu/core/.lua
-!lua/fufu/plugins/.lua
-!lua/fufu/plugins/lsp/.lua
+!*/
 !README.md
 // ignore all files except .lua and README.md

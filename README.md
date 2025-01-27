@@ -12,7 +12,7 @@ Below is the tree structure of my Neovim configuration:
 ├── init.lua
 ├── lazy-lock.json
 └── lua
-    └── fufu
+    └── fufu # change this to anything you like, remember to change it in init.lua
         ├── core
         │   ├── init.lua
         │   ├── keymaps.lua

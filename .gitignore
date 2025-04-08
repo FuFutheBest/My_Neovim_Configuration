@@ -1,5 +1,5 @@
-*
-!*.lua
-!*/
-!README.md
-// ignore all files except .lua and README.md
+# *
+# !*.lua
+# !*/
+# !README.md
+# ignore all files except .lua and README.md
